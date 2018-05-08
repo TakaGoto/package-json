@@ -32,7 +32,7 @@
   "dependencies": {
     "got": "^6.7.1",
     "registry-auth-token": "^3.0.1",
-    "registry-url": "^3.0.3",
+    "registry-url": "https://github.com/TakaGoto/registry-url.git",
     "semver": "^5.1.0"
   },
   "devDependencies": {
